@@ -4,3 +4,6 @@ I work at cloudbuy.
 I am a software developer.
 Presently, I am working in C# in .Net framework.
 This is my intro at this point in detached head branch.
+
+
+
