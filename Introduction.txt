@@ -7,3 +7,5 @@ This is my intro at this point in detached head branch.
 
 
 
+Right now I am on branch "quick-changes". Now I will checkout branch "master"
+
