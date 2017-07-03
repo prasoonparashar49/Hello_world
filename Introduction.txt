@@ -4,3 +4,5 @@ I work at cloudbuy.
 I am a software developer.
 Presently, I am working in C# in .Net framework.
 
+Right now I am on branch "quick-changes". Now I will checkout branch "master"
+
